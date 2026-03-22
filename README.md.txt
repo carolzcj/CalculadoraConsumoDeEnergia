@@ -1,14 +1,10 @@
 #  Calculadora de Consumo de Energia 
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) 
-![GitHub](https://img.shields.io/badge/GitHub-repositório-black?logo=github)
-![Energia](https://img.shields.io/badge/tema-energia-yellow)
-
 
 
 #  Nome e objetivo
 
-Este sistema calcula o consumo mensal de energia elétrica de um aparelho, ajudando o usuário a entender seu gasto energético.
+Este sistema calcula o consumo mensal de energia elétrica de um aparelho, ajudando o usuário a entender seu gasto energético e até o custo estimado.
 
 
 
